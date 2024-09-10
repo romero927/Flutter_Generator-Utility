@@ -33,7 +33,7 @@ A versatile utility application built with Flutter, offering UUID generation and
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/flutter-utility-app.git
+   git clone https://github.com/romero927/Flutter_Generator-Utility
    ```
 
 2. Navigate to the project directory:
